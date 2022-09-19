@@ -10,7 +10,7 @@ Responsável por aplicar as regras de negócio
 
 ### Camada Application
 Repsonsavel por regras dos serviços
-
+##
 ### Camada Infra.Data
 Contêm as dependências para logica de acesso ao dados utilizando Entity Framework core
 
